@@ -1,6 +1,6 @@
 {
   "name": "package-gamepad-controller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The objective of this Package is the use gamepad in the project easily and get all functionality of treatment of the buttons.",
 
   "main": "dist/package-game-pad-controller.ssr.js",
