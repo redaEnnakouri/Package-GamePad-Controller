@@ -1,7 +1,7 @@
 {
-  "name": "Package-GamePad-Controller",
-  "version": "0.1.0",
-  "private": true,
+  "name": "package-gamePad-controller",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
