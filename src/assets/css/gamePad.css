@@ -1,0 +1,80 @@
+td{
+    height: 74px;
+}
+#gamepad-display{
+    padding: 30px;
+    background: green;
+    color: honeydew;
+    display: none;
+}
+#data{
+  overflow-x: scroll;
+ }
+td{
+  border:none;
+  color: #fff;
+  background: #607d8b;
+  text-transform: capitalize;
+  font-family: "Open Sans";
+  font-size: 17px !important;
+  padding: 8px !important;
+}
+#data::-webkit-scrollbar {
+  height: 10px;
+  background: #707070;
+}
+
+#gamepadStatus {
+  position: absolute;
+  height: 50px;
+  width: 160px;
+  background: #bd2121;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  opacity: 0.7;
+  font-size: 15px;
+  color: #fff;
+  padding: 5px;
+  transition : all 1s ease-in-out; 
+}
+
+.cls-1 {
+  clip-path: url(#clip-Web_1920_1);
+}
+
+.cls-2, .cls-3 {
+  fill: #e51b1b;
+  stroke: #707070;
+}
+.cls-active{
+    fill: #1b4ee5 !important;
+}
+
+.cls-2, .cls-4 {
+  opacity: 0.85;
+}
+
+.cls-3 {
+  opacity: 0.86;
+}
+
+.cls-4 {
+  fill: #fcfcfc;
+  font-size: 60px;
+  font-family: SegoeUI-Bold, Segoe UI;
+  font-weight: 700;
+}
+
+.cls-5 {
+  stroke: none;
+}
+
+.cls-6 {
+  fill: none;
+}
+
+.cls-7 {
+  fill: #fff;
+}
