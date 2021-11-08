@@ -7,7 +7,7 @@ The objective of this Package is the use gamepad in the project easily and get a
 
 
 # GitHub :
-Link of the package at GitHub : https://www.npmjs.com/package/vue-twitch-video-controlls
+Link of the package at GitHub : https://github.com/redaEnnakouri/Package-GamePad-Controller
 
 # Install package
 Install package with commande `npm i package-gamepad-controller`
